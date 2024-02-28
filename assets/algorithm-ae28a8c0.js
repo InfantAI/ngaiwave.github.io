@@ -1,0 +1,1 @@
+import{W as e,X as t}from"./index-651853eb.js";function n(){return e.get({url:t.ResourceList.Get})}function i(){return e.get({url:t.EmbeddingList.Get})}function o(){return e.get({url:t.Version.Get})}function u(r){return e.post({url:t.Version.Add,data:r})}export{n as a,u as b,o as c,i as g};
